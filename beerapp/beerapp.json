@@ -1,0 +1,118 @@
+[
+  {
+    "popular": [
+      {
+        "name": "Beername1",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/1.png",
+        "rating": "5.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote1"
+      },
+      {
+        "name": "Beername2",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/2.png",
+        "rating": "4.0",
+        "price": "110",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote2"
+      },
+      {
+        "name": "Beername3",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/3.png",
+        "rating": "4.2",
+        "price": "80",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "70 rub",
+        "note": "Extranote3"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Beername1",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/1.png",
+        "rating": "5.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote1"
+      },
+      {
+        "name": "Beername4",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/4.png",
+        "rating": "5.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote4"
+      },
+      {
+        "name": "Beername3",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/3.png",
+        "rating": "4.2",
+        "price": "80",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "70 rub",
+        "note": "Extranote3"
+      }
+    ],
+    "allmenu": [
+      {
+        "name": "Beername1",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/1.png",
+        "rating": "5.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote1"
+      },
+      {
+        "name": "Beername2",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/2.png",
+        "rating": "4.0",
+        "price": "110",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote2"
+      },
+      {
+        "name": "Beername3",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/3.png",
+        "rating": "4.2",
+        "price": "80",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "70 rub",
+        "note": "Extranote3"
+      },
+      {
+        "name": "Beername4",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/4.png",
+        "rating": "5.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote4"
+      },
+      {
+        "name": "Beername5",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/5.png",
+        "rating": "3.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote5"
+      },
+      {
+        "name": "Beername6",
+        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/6.png",
+        "rating": "4.0",
+        "price": "120",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote6"
+      }
+    ]
+  }
+]
