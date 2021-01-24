@@ -3,7 +3,7 @@
     "popular": [
       {
         "name": "Beername1",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/1.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/1.png",
         "rating": "5.0",
         "price": "120",
         "deliveryTime": "30 min",
@@ -12,7 +12,7 @@
       },
       {
         "name": "Beername2",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/2.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/2.png",
         "rating": "4.0",
         "price": "110",
         "deliveryTime": "30 min",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Beername3",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/3.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/3.png",
         "rating": "4.2",
         "price": "80",
         "deliveryTime": "30 min",
@@ -32,7 +32,7 @@
     "recommended": [
       {
         "name": "Beername1",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/1.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/1.png",
         "rating": "5.0",
         "price": "120",
         "deliveryTime": "30 min",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Beername4",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/4.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/4.png",
         "rating": "5.0",
         "price": "120",
         "deliveryTime": "30 min",
@@ -50,7 +50,7 @@
       },
       {
         "name": "Beername3",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/3.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/3.png",
         "rating": "4.2",
         "price": "80",
         "deliveryTime": "30 min",
@@ -61,7 +61,7 @@
     "allmenu": [
       {
         "name": "Beername1",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/1.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/1.png",
         "rating": "5.0",
         "price": "120",
         "deliveryTime": "30 min",
@@ -70,7 +70,7 @@
       },
       {
         "name": "Beername2",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/2.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/2.png",
         "rating": "4.0",
         "price": "110",
         "deliveryTime": "30 min",
@@ -79,7 +79,7 @@
       },
       {
         "name": "Beername3",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/3.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/3.png",
         "rating": "4.2",
         "price": "80",
         "deliveryTime": "30 min",
@@ -88,7 +88,7 @@
       },
       {
         "name": "Beername4",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/4.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/4.png",
         "rating": "5.0",
         "price": "120",
         "deliveryTime": "30 min",
@@ -97,7 +97,7 @@
       },
       {
         "name": "Beername5",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/5.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/5.png",
         "rating": "3.0",
         "price": "120",
         "deliveryTime": "30 min",
@@ -106,7 +106,7 @@
       },
       {
         "name": "Beername6",
-        "imageUrl": "http://3fecd6ac4505.ngrok.io/beerapp/6.png",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/6.png",
         "rating": "4.0",
         "price": "120",
         "deliveryTime": "30 min",
