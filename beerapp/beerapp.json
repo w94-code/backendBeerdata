@@ -8,7 +8,6 @@
         "price": "120",
         "id": "1",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -18,7 +17,6 @@
         "price": "110",
         "id": "2",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -28,7 +26,6 @@
         "price": "80",
         "id": "3",
         "deliveryTime": "30 min",
-        "deliveryCharges": "70 rub",
         "note": "Extranote"
       },
       {
@@ -38,7 +35,6 @@
         "price": "120",
         "id": "4",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -48,7 +44,6 @@
         "price": "120",
         "id": "5",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       }
     ],
@@ -60,7 +55,6 @@
         "price": "120",
         "id": "4",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -70,7 +64,6 @@
         "price": "120",
         "id": "5",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -80,7 +73,6 @@
         "price": "120",
         "id": "6",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -90,7 +82,6 @@
         "price": "120",
         "id": "7",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -100,7 +91,6 @@
         "price": "120",
         "id": "8",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -110,7 +100,6 @@
         "price": "120",
         "id": "9",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       }
     ],
@@ -122,7 +111,6 @@
         "price": "120",
         "id": "1",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -132,7 +120,6 @@
         "price": "110",
         "id": "2",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -142,7 +129,6 @@
         "price": "80",
         "id": "3",
         "deliveryTime": "30 min",
-        "deliveryCharges": "70 rub",
         "note": "Extranote"
       },
       {
@@ -152,7 +138,6 @@
         "price": "120",
         "id": "4",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -162,7 +147,6 @@
         "price": "120",
         "id": "5",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -172,7 +156,6 @@
         "price": "120",
         "id": "6",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -182,7 +165,6 @@
         "price": "120",
         "id": "7",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -192,7 +174,6 @@
         "price": "120",
         "id": "8",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -202,7 +183,6 @@
         "price": "120",
         "id": "9",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -212,7 +192,6 @@
         "price": "120",
         "id": "10",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -222,7 +201,6 @@
         "price": "120",
         "id": "11",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       },
       {
@@ -232,7 +210,6 @@
         "price": "120",
         "id": "12",
         "deliveryTime": "30 min",
-        "deliveryCharges": "100 rub",
         "note": "Extranote"
       }
     ]
