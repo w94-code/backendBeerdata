@@ -5,7 +5,7 @@
         "name": "Жигулёвское",
         "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/1.png",
         "rating": "5.0",
-        "price": "120",
+        "price": "110",
         "id": "1",
         "deliveryTime": "30 min",
         "note": "Extranote"
@@ -29,20 +29,38 @@
         "note": "Extranote"
       },
       {
-        "name": "До встречи",
-        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/4.png",
-        "rating": "5.0",
-        "price": "120",
-        "id": "4",
+        "name": "Гренки (перец)",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/9.png",
+        "rating": "4.0",
+        "price": "300",
+        "id": "9",
         "deliveryTime": "30 min",
         "note": "Extranote"
       },
       {
-        "name": "Чешское тёмное",
-        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/5.png",
-        "rating": "3.0",
-        "price": "120",
-        "id": "5",
+        "name": "Гренки",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/10.png",
+        "rating": "4.0",
+        "price": "280",
+        "id": "10",
+        "deliveryTime": "30 min",
+        "note": "Extranote"
+      },
+      {
+        "name": "Рыбные гренки",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/11.png",
+        "rating": "4.0",
+        "price": "150",
+        "id": "11",
+        "deliveryTime": "30 min",
+        "note": "Extranote"
+      },
+      {
+        "name": "Принглс",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/12.png",
+        "rating": "4.0",
+        "price": "180",
+        "id": "12",
         "deliveryTime": "30 min",
         "note": "Extranote"
       }
@@ -52,7 +70,7 @@
         "name": "До встречи",
         "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/4.png",
         "rating": "5.0",
-        "price": "120",
+        "price": "90",
         "id": "4",
         "deliveryTime": "30 min",
         "note": "Extranote"
@@ -61,7 +79,7 @@
         "name": "Чешское тёмное",
         "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/5.png",
         "rating": "3.0",
-        "price": "120",
+        "price": "115",
         "id": "5",
         "deliveryTime": "30 min",
         "note": "Extranote"
@@ -79,7 +97,7 @@
         "name": "Жигулёвское светлое",
         "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/7.png",
         "rating": "3.0",
-        "price": "120",
+        "price": "70",
         "id": "7",
         "deliveryTime": "30 min",
         "note": "Extranote"
@@ -88,16 +106,16 @@
         "name": "Лимонад",
         "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/8.png",
         "rating": "3.0",
-        "price": "120",
+        "price": "68",
         "id": "8",
         "deliveryTime": "30 min",
         "note": "Extranote"
       },
       {
         "name": "Гренки (перец)",
-        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/9.jpeg",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/9.png",
         "rating": "4.0",
-        "price": "120",
+        "price": "300",
         "id": "9",
         "deliveryTime": "30 min",
         "note": "Extranote"
