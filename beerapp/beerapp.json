@@ -197,10 +197,40 @@
       },
       {
         "name": "Гренки (перец)",
-        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/9.jpeg",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/9.png",
         "rating": "4.0",
         "price": "120",
         "id": "9",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote"
+      },
+      {
+        "name": "Гренки",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/10.png",
+        "rating": "4.0",
+        "price": "120",
+        "id": "10",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote"
+      },
+      {
+        "name": "Рыбные гренки",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/11.png",
+        "rating": "4.0",
+        "price": "120",
+        "id": "11",
+        "deliveryTime": "30 min",
+        "deliveryCharges": "100 rub",
+        "note": "Extranote"
+      },
+      {
+        "name": "Принглс",
+        "imageUrl": "https://w94-code.github.io/backendBeerdata/beerapp/12.png",
+        "rating": "4.0",
+        "price": "120",
+        "id": "12",
         "deliveryTime": "30 min",
         "deliveryCharges": "100 rub",
         "note": "Extranote"
